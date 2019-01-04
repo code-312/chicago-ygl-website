@@ -1,5 +1,8 @@
 # chicago-ygl-website
-Code for the Chicago YGL (Young Government Leaders) Website project
+Code for the Chicago YGL (Young Government Leaders) Website project is being created in order to empower YGL and provide a sustainable solution for YGL’s needs and capabilities. 
+
+## What is YGL?
+Young Government Leaders Chicago is a 501(c)3 organization for young, and young at heart, people involved in government. Whether it is working for federal, state, or local government, part of a public-private partnership, or a non-profit organization in Chicago, YGL is here for all who want to make government better. YGL Chicago strives to make government accessible to everyone.  
 
 ## Getting a development environment setup
 
